@@ -80,7 +80,7 @@ Reflectia was developed as a **Mobile Programming** course project using a moder
 
 ## 🖼️ Cuplikan Tampilan | Screenshots
 
-### 🔐 Halaman Sign In, Login
+### 🔐 Halaman Sign In dan Login
 ![image](https://github.com/user-attachments/assets/44daab91-5a1d-41da-ade5-278bd5d119ac)
 ![image](https://github.com/user-attachments/assets/5be103e7-7ad9-4358-85fd-79cea4cd7945)
 
